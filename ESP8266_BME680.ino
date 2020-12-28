@@ -1,5 +1,7 @@
 /*
-  Example, how to read data from a BME680 (here: GY-BME680 5V/3.3V) and display the values on a HELTEC WIFI Kit 32 display
+  Based on https://github.com/3KUdelta/heltec_wifi_kit_32_BME680
+  
+  Example, how to read data from a BME680 (here: GY-BME680 5V/3.3V) and display the values on a display using an ESP8266 board.
   by 3KU_Delta (https://github.com/3KUdelta)
 
   IAQ calculations following Dr. Julie Riggs, The IAQ Rating Index, www.iaquk.org.uk
