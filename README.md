@@ -24,10 +24,11 @@ SoftwWire Steve Marple (Arduino Library Manager)
 AsyncDelay Steve Marple (Arduino Library Manager)
 
 Hardware needed:
+
 bme680 CJMCU
 
 OLED Display (128 x 64)
 
 ESP8266 Wi-Fi Chip (NodeMCU V1)
 
-case: https://www.thingiverse.com/thing:1720314
+Case: https://www.thingiverse.com/thing:1720314
