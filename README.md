@@ -18,10 +18,15 @@ Adafruit´s library: This is a library for the BME280 humidity, temperature & pr
 Libraries needed:
 
 ThingPulse SSD1306 (https://github.com/ThingPulse/esp8266-oled-ssd1306)
+
 General Adafruit Sensor (Arduino Library Manager)
+
 Adafruit BME680 (Arduino Library Manager)
+
 SoftwWire Steve Marple (Arduino Library Manager)
+
 AsyncDelay Steve Marple (Arduino Library Manager)
+
 
 Hardware needed:
 
