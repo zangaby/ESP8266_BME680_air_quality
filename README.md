@@ -1,6 +1,6 @@
 # ESP8266_BME680_air_quality
 
-![alt text] (https://github.com/zangaby/ESP8266_BME680_air_quality/blob/main/air_quality.jpg)
+![Image](https://github.com/zangaby/ESP8266_BME680_air_quality/blob/main/air_quality.jpgraw=true)
 
 Based on https://github.com/3KUdelta/heltec_wifi_kit_32_BME680
 
