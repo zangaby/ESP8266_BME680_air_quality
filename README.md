@@ -1,4 +1,4 @@
-# ESP8266_BME680_air_quality
+# ESP8266 BME680 air quality
 
 ![Image](https://github.com/zangaby/ESP8266_BME680_air_quality/blob/main/air_quality_bme680.jpg?raw=true)
 
