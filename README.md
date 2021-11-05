@@ -36,4 +36,10 @@ OLED Display (128 x 64)
 
 ESP8266 Wi-Fi Chip (NodeMCU V1)
 
-Case: https://www.thingiverse.com/thing:1720314
+Case: 
+https://www.thingiverse.com/thing:1720314
+
+Build steps:
+https://www.instructables.com/Indoor-Air-Quality-Meter/
+
+
